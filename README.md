@@ -5,7 +5,7 @@ Four pilot projects exploring vision-based, contactless **Human-Computer Interac
 
 * **Gesture Volume Control:** Gesture-based audio control module.
 * **Finger Counter:** Real-time hand landmark and digit detection.
-* **Coffee Machine Interface:** Contactless touchless ordering kiosk.
+* **Burger Machine Interface:** Contactless touchless ordering kiosk.
 * **3D Hand Tracking:** Physics-driven interaction within a virtual environment.
 
 ### 🛠 Tech Stack
