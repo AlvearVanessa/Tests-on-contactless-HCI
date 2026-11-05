@@ -10,7 +10,7 @@ Four pilot projects exploring vision-based, contactless **Human-Computer Interac
 
 ### 🛠 Tech Stack
 
-* **Computer Vision:** Python, Google MediaPipe, OpenCV, CvZone
+* **Computer Vision:** Python, Google MediaPipe, OpenCV, CVZone
 * **3D Engine & Logic:** Unity 3D, C#
 
 ### 📚 References
